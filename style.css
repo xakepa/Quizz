@@ -93,3 +93,9 @@ button:hover {
   margin: 0 auto 0.5em;
   display: none;
 }
+
+@media only screen and (max-width: 500px) {
+  #results {
+    margin-top: 20em;
+  }
+}
